@@ -18,7 +18,7 @@ deploy:
     - tcnksm/new-tag-test@0.1.0:
         owner: tcnksm-sample
         repo: wercker-golang
-        tag: 0.0.1
+        tag: 0.1.1
     - tcnksm/ghr:
         token: $GITHUB_TOKEN
         input: dist
