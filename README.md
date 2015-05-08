@@ -1,4 +1,4 @@
-Sample [Wercker](http://wercker.com/) box & step for golang
+[Wercker](http://wercker.com/) box & step for golang
 ====
 
 [![wercker status](https://app.wercker.com/status/a4d57dfaa497d9d433def27a8392980d/m "wercker status")](https://app.wercker.com/project/bykey/a4d57dfaa497d9d433def27a8392980d)
