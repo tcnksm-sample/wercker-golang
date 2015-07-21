@@ -3,7 +3,7 @@
 
 [![wercker status](https://app.wercker.com/status/a4d57dfaa497d9d433def27a8392980d/m "wercker status")](https://app.wercker.com/project/bykey/a4d57dfaa497d9d433def27a8392980d)
 
-This is sample project to use wecker box and step for golang. 
+This is a sample project to use wecker box and step for golang. 
 
 ## Box
 
